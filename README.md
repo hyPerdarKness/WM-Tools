@@ -28,7 +28,7 @@ $dbdata = "veritabani"; //Veritabanı Adı
 
 - Anasayfa
 
-Siteye ziyaret eden kişinin ip adresi alınıp " whois.pwhois.org " sitesinden derlenen bilgiler ziyaretçiye gösterilir.
+Siteyi ziyaret eden kişinin ip adresi alınıp " whois.pwhois.org " sitesinden derlenen bilgiler ziyaretçiye gösterilir.
 
 - IP Bul
 
