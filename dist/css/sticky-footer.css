@@ -1,0 +1,24 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  margin-bottom: 20px;
+}
+.footer {
+  position: absolute;
+  border-top:1px solid #E7E7E7;
+  bottom: 0;
+  width: 100%;
+  height: 20px;
+  background-color: #F8F8F8;
+}
+
+.container {
+  width: auto;
+  max-width: 100%;
+  padding: 0 15px;
+}
+.container .text-muted {
+  margin: 20px 0;
+}
